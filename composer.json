@@ -2,8 +2,8 @@
     "name": "nikkosvel/backport",
     "description": "backport",
     "type": "library",
-    "keywords": ["laravel", "backport", "backend", ""],
-    "homepage": "",
+    "keywords": ["laravel", "backport", "backend"],
+    "homepage": "https://github.com/NikKosvel/backport/",
     "license": "MIT",
     "authors": [
         {
