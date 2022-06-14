@@ -1,5 +1,5 @@
 {
-    "name": "NikKosvel/backport",
+    "name": "nikkosvel/backport",
     "description": "backport",
     "type": "library",
     "keywords": ["laravel", "backport", "backend", ""],
